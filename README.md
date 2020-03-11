@@ -1,5 +1,4 @@
 <h2 align="center">CRUD Concessionaria | C++</h2>
-# CRUD Concessionaria | C++
 
 ```c++
 
